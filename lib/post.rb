@@ -15,7 +15,7 @@ class Post
   
   def author_name 
    @author.name 
-   return nil
+   
   end 
   
 end 
